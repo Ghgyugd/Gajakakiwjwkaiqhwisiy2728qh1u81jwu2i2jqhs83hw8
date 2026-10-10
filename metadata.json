@@ -1,0 +1,6 @@
+{
+  "name": "Veldrin",
+  "description": "Your bridge between the syllabus you have and the rank you want. An AI learning operating system for students, independent learners, researchers, and everyday AI thinkers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
